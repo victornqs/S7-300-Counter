@@ -1,0 +1,9 @@
+
+      A     #Condition                  // Whatever it is you want to count
+      FP    #FP                         // Front pulse, since it should only count once.
+      JCN   end
+      L     #Count                      // This is where you store the counted nr, Double for nr's over 65k
+      L     #Count_nr                   // Amount by which u want to count.
+      +D    
+      T     #Count                      // Transfer back
+end:  NOP   0

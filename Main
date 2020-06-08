@@ -1,0 +1,5 @@
+      CALL  FC     1
+       Condition:=I0.0                  // What to count
+       Count_nr :=L#1                   // Amount by which u want to count
+       FP       :=M10.0                 // M used for the front pulse
+       Count    :=MD100                 // Where the counter nr should be stored
