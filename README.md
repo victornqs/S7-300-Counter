@@ -2,3 +2,5 @@
 S7-300 Counter Digital Input
 
 ![Alt text](OB1.jpg?raw=true "Optional Title")
+
+![Alt text](FC1.jpg?raw=true "Optional Title")
